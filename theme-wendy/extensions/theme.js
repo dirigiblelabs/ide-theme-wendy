@@ -11,6 +11,7 @@
 exports.getTheme = function() {
 	return {
 		'id': 'wendy',
-		'module': 'theme-wendy'
+		'module': 'theme-wendy',
+		'name': 'Wendy'
 	};
 };
