@@ -51,7 +51,8 @@ body {
 	height: 2em;
 	background: #337ab7;
 	color: #fec600;
-	position: relative;
+	position: fixed;
+	bottom: 0;
 }
 .lm_header .lm_tab {
 	background: #adadad;
